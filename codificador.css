@@ -1,0 +1,55 @@
+.botao1, .botao2, .botao3{
+    color: rgb(91, 209, 91);
+    border-color: rgb(76, 224, 76); 
+    text-shadow: 2px 2px 2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: auto;
+    background-color: black;
+
+}
+.fundo {
+    background-image: url("imagens/fundo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+.titulo1, .titulo2 {
+    color: rgb(69, 236, 77); 
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 2px;
+
+}
+
+.entrada1 , .entrada2 {
+    width: 500px;
+    height: 20px;
+}
+
+.bloco1, .bloco2, .bloco3{
+    text-align: center;
+    
+}
+
+#resultado {
+    background-color: black;
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(65, 243, 65);
+}
+
+#limpar {
+    align-items: center;
+    color: rgb(51, 240, 51);
+    text-align: center;
+    background-color: black;
+    border-color: green;
+    text-shadow: 1px 1px 1px;
+    width: 500px;
+    height: 20px;
+    align-content: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
